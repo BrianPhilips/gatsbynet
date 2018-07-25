@@ -6,4 +6,4 @@ heyyy
 
 
 
-![](/static/assets/logo.png)
+![](/static/assets/bg.jpg)
