@@ -22,7 +22,7 @@ module.exports = {
         path: `${__dirname}/src/images`
       }
     },    
-{
+    {
       resolve: "gatsby-transformer-remark",
       options: {
         excerpt_separator: `<!-- end -->`        
@@ -30,5 +30,6 @@ module.exports = {
     },            
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
+    'gatsby-plugin-netlify-cms',
   ],
 }
