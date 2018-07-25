@@ -1,9 +1,8 @@
 ---
 title: first netlify posst
 date: '2018-07-25'
+image: /assets/bg.jpg
 ---
 heyyy
 
-
-
-![](/static/assets/bg.jpg)
+![null](/assets/bg.jpg)
